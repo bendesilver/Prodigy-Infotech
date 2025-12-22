@@ -105,9 +105,9 @@ This repository is for educational purposes as part of the Prodigy Infotech inte
 
 **BENJAMIN AKWASI PAGYAKOTWERE BOADU**  
 Prodigy Infotech Intern  
-# [Github](https://github.com/bendesilver)
-# [X (Twitter)] (https://x.com/BenDeSilverr)
-# [LinkedIn] (www.linkedin.com/in/benjaminboadu)
+ [Github](https://github.com/bendesilver)
+ [X (Twitter)](https://x.com/BenDeSilverr)
+ [LinkedIn](www.linkedin.com/in/benjaminboadu)
 
 ## 🙏 Acknowledgments
 
