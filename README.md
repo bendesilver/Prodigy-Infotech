@@ -104,7 +104,6 @@ This repository is for educational purposes as part of the Prodigy Infotech inte
 ## 👨‍💻 Author
 
 **BENJAMIN AKWASI PAGYAKOTWERE BOADU**  
- [LinkedIn](www.linkedin.com/in/benjaminboadu)
  [X (Twitter)](https://x.com/BenDeSilverr)
  [Github](https://github.com/bendesilver)
 
