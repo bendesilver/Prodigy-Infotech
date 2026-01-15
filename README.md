@@ -51,8 +51,7 @@ Before running these projects, ensure you have:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/bendesilver/prodigy-infotech-projects.git
-cd prodigy-infotech-projects
+git clone https://github.com/bendesilver/Prodigy-Infotech.git
 ```
 
 2. Install required dependencies:
@@ -67,22 +66,27 @@ Each project can be run independently:
 ### Caesar Cipher
 ```bash
 cd PRODIGY_CS_01
+```
+```
 python Caesar Caesar Algorithm.py
 ```
-
 ### Image Encryption
 ```bash
 cd PRODIGY_CS_02
+
+```
+```
 python image_tool.py
 ```
-
 ### Password Strength Checker
 ```bash
 cd PRODIGY_CS_03
-python password_checker.py
+
 ```
 
-
+```
+python password_checker.py
+```
 
 ## 🎯 Learning Outcomes
 
