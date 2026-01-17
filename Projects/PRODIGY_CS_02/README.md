@@ -1,6 +1,7 @@
-# 🔐 Image Encryption Tool v2.0
+# 🔐 Image Encryption Tool 
 
 ![Python Version](https://img.shields.io/badge/python-3.6+-blue.svg)
+![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey.svg)
 
 A professional image encryption/decryption tool using XOR cipher, developed by Ben De Silver as a project.
 
@@ -8,7 +9,6 @@ A professional image encryption/decryption tool using XOR cipher, developed by B
 - 🔒 XOR-based image encryption/decryption
 - 🖼️ Multiple image format support (PNG, JPG, BMP, GIF, TIFF)
 - 🎯 Interactive menu & command-line modes
-- 📊 Progress visualization
 - 🔑 Secure key handling
 
 ## 🚀 Quick Start
