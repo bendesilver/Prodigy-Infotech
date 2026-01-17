@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 """
-Image Encryption Tool v2.0
+Image Encryption Tool
 Developed by Ben De Silver
 Cross-platform image encryption/decryption using XOR cipher
 """
@@ -20,7 +20,6 @@ except ImportError:
 class ImageEncryptionTool:
     def __init__(self):
         self.tool_name = "Image Encryption Tool"
-        self.version = "v2.0"
         self.developer = "Ben De Silver"
         self.width = 60
     
@@ -36,7 +35,7 @@ class ImageEncryptionTool:
         self.clear_screen()
         border = "=" * self.width
         print(f"\n{border}")
-        print("IMAGE ENCRYPTION TOOL v2.0".center(self.width))
+        print("IMAGE ENCRYPTION TOOL".center(self.width))
         print("Developed by Ben De Silver".center(self.width))
         print(border)
     
@@ -358,7 +357,7 @@ class ImageEncryptionTool:
         print("=" * self.width)
         
         about_text = f"""
-        {self.tool_name} {self.version}
+        {self.tool_name}
         Developed by: {self.developer}
         
         DESCRIPTION
@@ -502,7 +501,7 @@ def main():
     
     # Set up argument parser
     parser = argparse.ArgumentParser(
-        description=f"{tool.tool_name} {tool.version} - Developed by {tool.developer}",
+        description=f"{tool.tool_name} - Developed by {tool.developer}",
         formatter_class=argparse.RawDescriptionHelpFormatter,
         epilog="""
 Examples:
