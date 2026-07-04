@@ -68,7 +68,7 @@ Each project can be run independently:
 cd PRODIGY_CS_01
 ```
 ```
-python Caesar Caesar Algorithm.py
+python Caesar Cipher Algorithm.py
 ```
 ### Image Encryption
 ```bash
